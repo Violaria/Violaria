@@ -6,6 +6,8 @@
 
 ---
 
+如果你想要在我的 GitHub 上关注我的工作，或者提 issue，遗憾的是，我很少关注 GitHub 上的消息，并且我的大部分项目工程都是在我的私人 GitLab 上。
+
 ## 工程价值观
 
 - 我倾向于架构的尊严、优雅与正确性排在一切交付速度和需求之前。
@@ -64,5 +66,3 @@
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | 自维护的匿名提问箱：访客无需注册即可提问，站主公开回答。 | Ruby、TypeScript | MIT |
 
 所有仓库托管于自建 GitLab 实例。开源项目也许在该处公开源码；专有项目仅发布成品与文档。Tabularium 的源码同时公开在 GitHub。
-
-如果你想要在我的 GitHub 上关注我的工作，或者提 issue，遗憾的是，我很少关注 GitHub 上的消息，并且我的大部分项目工程都是在我的私人 GitLab 上。

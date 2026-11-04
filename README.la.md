@@ -6,6 +6,8 @@
 
 ---
 
+Si opera mea in GitHub sequi aut quaestionem (issue) aperire vis, doleo, sed nuntios in GitHub raro inspicio, et pleraque opera mea in GitLab privato meo sunt.
+
 ## Principia Fabricationis
 
 - Dignitatem, elegantiam et rectitudinem architecturae omni celeritati tradendi omnibusque postulatis anteponere soleo.
@@ -64,5 +66,3 @@
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Arcula quaestionum anonymarum a me ipsa conservata: hospites sine inscriptione quaerunt, dominus situs publice respondet. | Ruby, TypeScript | MIT |
 
 Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt. Fons Tabularii etiam in GitHub publicatur.
-
-Si opera mea in GitHub sequi aut quaestionem (issue) aperire vis, doleo, sed nuntios in GitHub raro inspicio, et pleraque opera mea in GitLab privato meo sunt.

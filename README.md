@@ -6,6 +6,8 @@
 
 ---
 
+If you want to follow my work on GitHub or open an issue, I regret to say that I seldom check messages on GitHub, and most of my projects live on my private GitLab.
+
 ## Engineering Values
 
 - I tend to rank the dignity, elegance and correctness of architecture above all delivery speed and requirements.
@@ -64,5 +66,3 @@
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | A self-maintained anonymous question box: visitors ask without registering and the site owner answers in public. | Ruby, TypeScript | MIT |
 
 All repositories are hosted on a self-managed GitLab instance. Open-source projects may publish their source there; proprietary projects publish releases and documentation only. Tabularium's source is also public on GitHub.
-
-If you want to follow my work on GitHub or open an issue, I regret to say that I seldom check messages on GitHub, and most of my projects live on my private GitLab.
