@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++, Stardust Reverie Technology Co., Ltd." width="100%">
+    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++" width="100%">
   </picture>
 </p>
 
@@ -9,25 +9,37 @@
 
 ---
 
-## Values
+## Technology
 
-### Engineering
+| Area | Technology |
+| --- | --- |
+| Languages | C, C++ (C++11 to C++23), Go, TypeScript, Python, Rust, x86 ASM |
+| Clients and graphics | Qt6 and a custom vendored Qt6, Unreal Engine 5, CEF off-screen rendering, DirectX 12, Vulkan, DirectComposition, Live2D Cubism |
+| Protocols and transport | Custom binary protocol design, TLS 1.3, QUIC, HTTP/3, WebRTC, AnyTLS, REALITY, obfs4, Hysteria2, Snowflake |
+| Cryptography | Chinese national standards (SM2, SM3, SM4), post-quantum (ML-KEM, ML-DSA, SLH-DSA), OPAQUE, MLS, HPKE, Noise, TPM 2.0 attestation, WebAuthn, ProVerif |
+| Systems programming and sandboxing | Linux namespaces, seccomp, cgroups, AppContainer, WebAssembly (Wasmtime), anti-debugging and software hardening, VMP variants and mutation protection |
+| Model training | PyTorch, TRL, PEFT, LoRA, DPO, directional ablation (Heretic, MPOA, ARA) |
+| Model inference | vLLM, TensorRT-LLM, Infinity, model quantisation, RoPE tuning |
+| Retrieval and knowledge bases | RAGFlow, Elasticsearch, hybrid retrieval, reranking, golden set |
+| Agents | MCP, Letta, Claude Code, Codex |
+| Networking | Software routers, load balancing and failover, link aggregation, VLAN, VXLAN, firewalls (nftables), transparent proxying and traffic splitting, traffic shaping and congestion control, recursive and authoritative DNS, DNSSEC, Tor hidden services |
+| Systems and operations | Linux, Docker, systemd, Ansible, Nginx, FRP, Proxmox Backup Server |
+| Databases | PostgreSQL, MySQL, SQLite, CouchDB, Elasticsearch, Valkey |
+| Scientific computing | JupyterLab, Dask, REBOUND, MERCURY, VPLanet, ExoPlaSim, climlab |
 
-- Architectural dignity comes before everything. Delivery speed and requirement-driven development both rank below the correctness of architectural design. Engineering must follow the grain of the architecture; I detest servile engineering that surrenders architectural dignity to closing tickets.
-- Rather than patching the architecture or carving exceptions into it, I would sooner refactor it for the long term. My designs are API-first, and I care about the engineering quality of APIs and SDKs.
-- I stand for developer-first. Customer- and market-first (sales-first) and consumer-first thinking do not interest me, and I equally detest the values of short-term delivery, rapid iteration and racing for a market window.
-- I do not oppose over-design. I detest YAGNI and KISS being used as excuses to pass off ill-considered, under-abstracted, narrowly applicable code.
-- I am an engineering purist, and I design and build only software that meets my own standards of code aesthetics. I dislike ingratiating user experience, and monetisation holds still less interest for me. Nor do I need to work to make money.
-- I do not practise vibe coding, but I am not opposed to AI. All AI-assisted engineering should be governed by standards, and all generated code must be audited by human experts; at minimum, a human must review the test code.
-- Digital sovereignty: my data stays under my own control, and whatever can run locally does not go to the cloud. I take a negative view of going all-in on cloud services; my own server room lacks neither hardware nor cluster capacity.
+## Engineering Values
 
-### Open Source
-
-- I am not a zealot of the open-source movement.
-- I oppose moral coercion in the name of open source. Whether to open-source should be the developer's freedom. Open source and closed source are two routes of equal worth, and choosing either requires no explanation or justification.
-- I oppose unauthorised, unlawful reverse engineering, and I oppose still more the dressing up of theft as the spirit of open source or of internet sharing.
-- I support free software, but the freedom I care about is the developer's freedom over their own work; the freedom of the user does not interest me.
-- Security derives from design, implementation and audit. Open source does not imply security, and closed source does not imply insecurity.
+- I tend to rank the dignity, elegance and correctness of architecture above all delivery speed and requirements.
+- I tend to design API-first, and I give priority to the engineering quality of APIs and SDKs.
+- I have always taken the Dev-First position; Sales-First, Consumer-First and Time-to-Market do not interest me.
+- I do not oppose over-design, and I particularly detest the excuses of YAGNI and KISS.
+- Fail-Fast. Code trusts its declared contracts, validation belongs at trust boundaries, and I detest defensive branches and fallback code of every kind.
+- I do not accept the philosophy of pursuing lightness and small-is-beautiful for their own sake. I lean towards API-driven, flexibly pluggable software, and for elegant architectural composition to be truly workable, the precondition is a strong, unified underlying abstraction.
+- I build only software that meets my own aesthetic; open-source reputation, helping others and commercialisation do not interest me.
+- Word choice is a design decision. An imprecise name is an imprecise design.
+- Whether to open-source is the developer's choice. Open source and closed source are two routes of equal worth, and choosing either needs no explanation. I oppose moral coercion in the name of open source.
+- I detest unauthorised, unlawful reverse engineering, and I also oppose dressing it up as the spirit of open source or of sharing.
+- I have my own server room and cluster. I care to the extreme about my data sovereignty and software sovereignty, so whatever can run locally does not go to the cloud.
 
 ## Projects
 
@@ -55,11 +67,3 @@
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | A self-maintained anonymous question box: visitors ask without registering and the site owner answers in public. | Ruby, TypeScript | MIT |
 
 All repositories are hosted on a self-managed GitLab instance. Open-source projects may publish their source there; proprietary projects publish releases and documentation only. Tabularium's source is also public on GitHub.
-
-## Technology
-
-**Languages**: C, C++, Rust, Go, TypeScript, Python, x86 Assembly
-
-## Organisation
-
-Stardust Reverie Technology Co., Ltd.

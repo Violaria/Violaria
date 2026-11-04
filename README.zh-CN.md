@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++, Stardust Reverie Technology Co., Ltd." width="100%">
+    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++" width="100%">
   </picture>
 </p>
 
@@ -9,21 +9,37 @@
 
 ---
 
-## 价值观
-### 开发
-  - 我坚持架构尊严高于一切，交付速度和需求驱动都排在架构设计正确性之后。工程必须基于架构纹理，最讨厌把架构尊严让位给ticket闭环的奴性工程。
-  - 比起在架构上打补丁/开架构上的例外，我更愿意为了未来长期设计而重构架构。我在设计上以 API 为先，重视 API 与 SDK 的工程质量。
-  - 我支持开发者优先（Dev-First）。对"客户/市场需求优先"（Sales-First）和"消费者优先"不感兴趣，同理我厌恶追求短期交付、快速迭代、抢占市场窗口的价值观。
-  - 我不反对过度设计，我讨厌以 YAGNI 和 KISS 为借口，让欠考虑、低抽象、泛用性差的劣质代码蒙混过关。
-  - 我有工程洁癖，只设计和开发符合我自身代码审美的软件。我讨厌迎合式的用户体验，商业化变现更不在我的兴趣之内。我也不需要为赚钱而工作。
-  - 我不喜欢 Vibe Coding，但我并不反对 AI。一切 AI Coding工程都应规范化，且生成的代码都须经过人类专家审计，至少人类必须审查测试代码。
-  - Digital Sovereignty，自主数据主权，能本地就不上云，对All in 云服务持负面态度，我本地机房又不缺硬件条件和集群资源。
-### 开源
-  - 我不是开源运动的狂信徒。
-  - 我反对开源价值观绑架。是否开源应是开发者的自由。开源与闭源只是两种同等价值的路线选择，且无需任何解释或理由。
-  - 我反对未经授权的非法逆向工程，更反对把窃取行为包装成开源精神或互联网分享精神。
-  - 我支持自由软件，但我关心的是开发者支配自己作品的自由，用户的自由我不感兴趣。
-  - 软件是否安全，取决于设计、实现与审计。开源不等于安全，闭源也不等于不安全。
+## 技术栈
+
+| 领域 | 技术 |
+| --- | --- |
+| 语言 | C、C++（C++11 到 C++23）、Go、TypeScript、Python、Rust、x86 ASM |
+| 客户端与图形 | Qt6及QT6 自定制vendored、Unreal Engine 5、CEF 离屏渲染、DirectX 12、Vulkan、DirectComposition、Live2D Cubism |
+| 协议与传输 | 二进制自定义协议设计、TLS 1.3、QUIC、HTTP/3、WebRTC、AnyTLS、REALITY、obfs4、Hysteria2、Snowflake |
+| 密码学 | 国密（SM2、SM3、SM4）、后量子（ML-KEM、ML-DSA、SLH-DSA）、OPAQUE、MLS、HPKE、Noise、TPM 2.0 证明、WebAuthn、ProVerif |
+| 系统编程与沙箱 | Linux 命名空间、seccomp、cgroup、AppContainer、WebAssembly（Wasmtime）、反调试与软件加固、VMP变体及变异保护 |
+| 模型训练 | PyTorch、TRL、PEFT，LoRA、DPO、方向消融（Heretic、MPOA、ARA） |
+| 模型推理 | vLLM、TensorRT-LLM、Infinity、模型量化、RoPE 调参 |
+| 检索与知识库 | RAGFlow、Elasticsearch、混合检索、重排、golden set |
+| 智能体 | MCP、Letta、Claude Code、Codex |
+| 网络 | 软路由、均衡负载及故障转移、链路聚合、VLAN、VXLAN、防火墙（nftables）、透明代理与分流、流量整形与拥塞控制、递归与权威 DNS、DNSSEC、Tor 隐藏服务 |
+| 系统与运维 | Linux、Docker、systemd、Ansible、Nginx、FRP、Proxmox Backup Server |
+| 数据库 | PostgreSQL、MySQL、SQLite、CouchDB、Elasticsearch、Valkey |
+| 科学计算 | JupyterLab、Dask、REBOUND、MERCURY、VPLanet、ExoPlaSim、climlab |
+
+## 工程价值观
+
+- 我倾向于架构的尊严、优雅与正确性排在一切交付速度和需求之前。
+- 我倾向于设计以 API 为先，我优先重视 API 与 SDK 的工程质量。
+- 我向来站在 Dev-First 的立场，对 Sales-First、Consumer-First 和 Time-to-Market 没有兴趣。
+- 我不反对过度设计，我尤其讨厌 YAGNI 和 KISS 的借口。
+- Fail-Fast。代码信任已声明的契约，校验放在信任边界，我厌恶防御性分支和各类兜底代码。
+- 我不认同软件一味追求轻量化/小而美的软件理念。我更倾向于API化/灵活插件化，而架构上的优雅组合要真正可行，前提是一个强有力的统一底层抽象。
+- 我只做符合自己审美的软件，追求开源声誉、帮助他人、商业化我都不感兴趣。
+- 用词是设计决定。命名用词不准确就是设计不准确。
+- 是否开源是开发者的选择。开源和闭源是两条同等价值的路线，选哪条都不需要解释。我反对以开源的名义进行道德绑架。
+- 我厌恶未经授权的非法逆向工程，也反对把它包装成开源精神或分享精神。
+- 我有自己的服务器机房和集群。我极端在意我的数据主权和软件主权，因此能在本地运行的就不上云。
 
 ## 项目
 
@@ -51,11 +67,3 @@
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | 自维护的匿名提问箱：访客无需注册即可提问，站主公开回答。 | Ruby、TypeScript | MIT |
 
 所有仓库托管于自建 GitLab 实例。开源项目也许在该处公开源码；专有项目仅发布成品与文档。Tabularium 的源码同时公开在 GitHub。
-
-## 技术
-
-**语言**：C、C++、Rust、Go、TypeScript、Python、x86ASM
-
-## 组织
-
-Stardust Reverie Technology Co., Ltd.

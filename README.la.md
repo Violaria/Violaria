@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++, Stardust Reverie Technology Co., Ltd." width="100%">
+    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++" width="100%">
   </picture>
 </p>
 
@@ -9,25 +9,37 @@
 
 ---
 
-## Principia
+## Artes
 
-### De Fabricatione
+| Ambitus | Artes |
+| --- | --- |
+| Linguae | C, C++ (C++11 ad C++23), Go, TypeScript, Python, Rust, x86 ASM |
+| Clientes et graphica | Qt6 et Qt6 proprie accommodatum (vendored), Unreal Engine 5, CEF extra scaenam reddens, DirectX 12, Vulkan, DirectComposition, Live2D Cubism |
+| Protocolla et translatio | Designatio protocolli binarii proprii, TLS 1.3, QUIC, HTTP/3, WebRTC, AnyTLS, REALITY, obfs4, Hysteria2, Snowflake |
+| Cryptographia | Normae Sinicae (SM2, SM3, SM4), postquantica (ML-KEM, ML-DSA, SLH-DSA), OPAQUE, MLS, HPKE, Noise, attestatio TPM 2.0, WebAuthn, ProVerif |
+| Programmatio systematum et harenaria | Spatia nominum Linux, seccomp, cgroups, AppContainer, WebAssembly (Wasmtime), impedimenta contra purgationem et munitio programmatum, variantes VMP et tutela mutationis |
+| Institutio modelorum | PyTorch, TRL, PEFT, LoRA, DPO, ablatio directionalis (Heretic, MPOA, ARA) |
+| Inferentia modelorum | vLLM, TensorRT-LLM, Infinity, quantizatio modelorum, temperatio RoPE |
+| Inquisitio et bases scientiae | RAGFlow, Elasticsearch, inquisitio mixta, reordinatio, golden set |
+| Agentes | MCP, Letta, Claude Code, Codex |
+| Retia | Itineratores programmatici, libratio oneris et transitus in defectu, aggregatio nexuum, VLAN, VXLAN, muri ignis (nftables), procuratio perspicua et distributio, conformatio fluxus et moderatio congestionis, DNS recursivum et auctoritativum, DNSSEC, servitia occulta Tor |
+| Systemata et administratio | Linux, Docker, systemd, Ansible, Nginx, FRP, Proxmox Backup Server |
+| Bases datorum | PostgreSQL, MySQL, SQLite, CouchDB, Elasticsearch, Valkey |
+| Computatio scientifica | JupyterLab, Dask, REBOUND, MERCURY, VPLanet, ExoPlaSim, climlab |
 
-- Dignitatem architecturae omnibus rebus antepono. Celeritas tradendi et opus a postulatis ductum post rectitudinem designationis architecturae veniunt. Fabricatio secundum venam architecturae procedere debet; maxime odi fabricationem servilem, quae dignitatem architecturae tesseris negotiorum claudendis summittit.
-- Potius quam architecturam sarcire aut exceptiones in ea aperire, malo eam in longum tempus prospiciens refingere. In designando API primum pono, et de qualitate API et SDK curo.
-- Programmatoribus primum locum tribuo (Dev-First). Ratio quae clientium mercatusque postulata (Sales-First) aut consumptores praefert me non movet; pariter odi eas sententias quae traditionem brevem, iterationem celerem occupationemque fenestrae mercatus sequuntur.
-- Designationi nimiae non adversor. Odi YAGNI et KISS praetexi, ut codex malus, parum consideratus, parum abstractus, ad usum generalem ineptus, fraude transeat.
-- Munditiae fabricandi studiosa sum, neque ullum programma designo aut fabrico nisi quod meo codicis gustui respondeat. Usum blandientem non amo; quaestus autem ex commercio multo minus me tangit. Neque mihi lucri causa laborandum est.
-- Vibe Coding non probo, neque tamen intellegentiae artificiali adversor. Omne opus quod cum intellegentia artificiali programmatur normis regi debet, omnisque codex generatus a peritis hominibus examinandus est; ad minimum homo codicem probationum recognoscat.
-- Principatus digitalis: data in mea potestate retineo, et quae in loco exsequi possunt in nubem non transfero. De omnibus officiis in nubem conferendis male sentio; camerae enim machinarum meae neque instrumenta neque copiae computatrorum consociatorum desunt.
+## Principia Fabricationis
 
-### De Fonte Aperto
-
-- Motus fontis aperti fanatica non sum.
-- Coactioni morali nomine fontis aperti adversor. Utrum fons aperiatur necne, in libertate programmatoris esse debet. Fons apertus et fons clausus duae tantum viae aequi pretii sunt, quarum utramvis eligere nulla explicatione aut ratione eget.
-- Retroversae machinationi iniussae et illicitae adversor, magis etiam iis qui furtum specie fontis aperti aut communicationis interretialis induunt.
-- Programmata libera foveo, sed libertas quae mihi curae est ea est qua programmator operibus suis imperat; libertas utentium me non tangit.
-- Utrum programma tutum sit necne, ex designatione, effectione et examinatione pendet. Fons apertus securitatem non praestat, neque fons clausus periculum arguit.
+- Dignitatem, elegantiam et rectitudinem architecturae omni celeritati tradendi omnibusque postulatis anteponere soleo.
+- In designando API primum ponere soleo, et qualitati fabricationis API et SDK primas partes tribuo.
+- Semper in parte Dev-First sto; Sales-First, Consumer-First et Time-to-Market me non movent.
+- Designationi nimiae non adversor, et praecipue odi YAGNI et KISS praetexta.
+- Fail-Fast. Codex pactis declaratis confidit, examinatio ad fines fiduciae collocatur; ramos defensivos et omne genus codicis subsidiarii odi.
+- Rationem programmatum quae levitatem et parvitatem elegantem sine modo sequitur non probo. Potius API et additamenta flexibilia sequor; compositio autem architecturae elegans ut vere fieri possit, abstractione inferiore valida et una opus est.
+- Nulla programmata facio nisi quae meo gustui respondeant; nec fama fontis aperti, nec auxilium aliis, nec quaestus me tangunt.
+- Electio verborum est decretum designationis. Nomen parum accuratum designatio parum accurata est.
+- Utrum fons aperiatur necne, programmatoris est eligere. Fons apertus et fons clausus duae viae aequi pretii sunt, quarum utramvis eligere nulla explicatione eget. Coactioni morali nomine fontis aperti adversor.
+- Retroversam machinationem iniussam et illicitam odi, neque probo eam specie fontis aperti aut communicationis indui.
+- Cameram machinarum et computatra consociata mea habeo. De principatu datorum et programmatum meorum summe sollicita sum, itaque quae in loco exsequi possunt in nubem non transfero.
 
 ## Opera
 
@@ -55,11 +67,3 @@
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Arcula quaestionum anonymarum a me ipsa conservata: hospites sine inscriptione quaerunt, dominus situs publice respondet. | Ruby, TypeScript | MIT |
 
 Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt. Fons Tabularii etiam in GitHub publicatur.
-
-## Artes
-
-**Linguae**: C, C++, Rust, Go, TypeScript, Python, x86 Assembly
-
-## Societas
-
-Stardust Reverie Technology Co., Ltd.
