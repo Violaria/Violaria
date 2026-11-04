@@ -7,8 +7,6 @@
 
 <p align="center"><a href="README.md">English</a> &middot; 中文 &middot; <a href="README.la.md">Lingua Latīna</a></p>
 
-<p align="center">我做架构优先、能完全自持的软件，从 DevOps 平面到本地智能体和端到端加密笔记。</p>
-
 ---
 
 ## 价值观

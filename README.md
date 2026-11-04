@@ -7,8 +7,6 @@
 
 <p align="center">English &middot; <a href="README.zh-CN.md">中文</a> &middot; <a href="README.la.md">Lingua Latīna</a></p>
 
-<p align="center">I build architecture-first software that I can run entirely on my own: from a DevOps plane to local agents and end-to-end encrypted notes.</p>
-
 ---
 
 ## Values

@@ -7,8 +7,6 @@
 
 <p align="center"><a href="README.md">English</a> &middot; <a href="README.zh-CN.md">中文</a> &middot; Lingua Latīna</p>
 
-<p align="center">Programmata facio quae architecturam primam ponunt et quae omnino per me ipsa sustinere possum: a plano DevOps usque ad agentes locales et commentarios cryptatos.</p>
-
 ---
 
 ## Principia
