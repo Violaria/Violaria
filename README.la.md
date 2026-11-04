@@ -9,24 +9,6 @@
 
 ---
 
-## Artes
-
-| Ambitus | Artes |
-| --- | --- |
-| Linguae | C, C++ (C++11 ad C++23), Go, TypeScript, Python, Rust, x86 ASM |
-| Clientes et graphica | Qt6 et Qt6 proprie accommodatum (vendored), Unreal Engine 5, CEF extra scaenam reddens, DirectX 12, Vulkan, DirectComposition, Live2D Cubism |
-| Protocolla et translatio | Designatio protocolli binarii proprii, TLS 1.3, QUIC, HTTP/3, WebRTC, AnyTLS, REALITY, obfs4, Hysteria2, Snowflake |
-| Cryptographia | Normae Sinicae (SM2, SM3, SM4), postquantica (ML-KEM, ML-DSA, SLH-DSA), OPAQUE, MLS, HPKE, Noise, attestatio TPM 2.0, WebAuthn, ProVerif |
-| Programmatio systematum et harenaria | Spatia nominum Linux, seccomp, cgroups, AppContainer, WebAssembly (Wasmtime), impedimenta contra purgationem et munitio programmatum, variantes VMP et tutela mutationis |
-| Institutio modelorum | PyTorch, TRL, PEFT, LoRA, DPO, ablatio directionalis (Heretic, MPOA, ARA) |
-| Inferentia modelorum | vLLM, TensorRT-LLM, Infinity, quantizatio modelorum, temperatio RoPE |
-| Inquisitio et bases scientiae | RAGFlow, Elasticsearch, inquisitio mixta, reordinatio, golden set |
-| Agentes | MCP, Letta, Claude Code, Codex |
-| Retia | Itineratores programmatici, libratio oneris et transitus in defectu, aggregatio nexuum, VLAN, VXLAN, muri ignis (nftables), procuratio perspicua et distributio, conformatio fluxus et moderatio congestionis, DNS recursivum et auctoritativum, DNSSEC, servitia occulta Tor |
-| Systemata et administratio | Linux, Docker, systemd, Ansible, Nginx, FRP, Proxmox Backup Server |
-| Bases datorum | PostgreSQL, MySQL, SQLite, CouchDB, Elasticsearch, Valkey |
-| Computatio scientifica | JupyterLab, Dask, REBOUND, MERCURY, VPLanet, ExoPlaSim, climlab |
-
 ## Principia Fabricationis
 
 - Dignitatem, elegantiam et rectitudinem architecturae omni celeritati tradendi omnibusque postulatis anteponere soleo.
@@ -40,6 +22,24 @@
 - Utrum fons aperiatur necne, programmatoris est eligere. Fons apertus et fons clausus duae viae aequi pretii sunt, quarum utramvis eligere nulla explicatione eget. Coactioni morali nomine fontis aperti adversor.
 - Retroversam machinationem iniussam et illicitam odi, neque probo eam specie fontis aperti aut communicationis indui.
 - Cameram machinarum et computatra consociata mea habeo. De principatu datorum et programmatum meorum summe sollicita sum, itaque quae in loco exsequi possunt in nubem non transfero.
+
+## Artes
+
+| Ambitus | Artes |
+| --- | --- |
+| Linguae | C, C++ (C++11 ad C++23), Go, TypeScript, Python, Rust, x86 ASM |
+| Clientes et Graphica | Qt6 et Qt6 Proprie Accommodatum (Vendored), Unreal Engine 5, CEF Extra Scaenam Reddens, DirectX 12, Vulkan, DirectComposition, Live2D Cubism |
+| Protocolla et Translatio | Designatio Protocolli Binarii Proprii, TLS 1.3, QUIC, HTTP/3, WebRTC, AnyTLS, REALITY, obfs4, Hysteria2, Snowflake |
+| Cryptographia | GM (SM2, SM3, SM4), PQC (ML-KEM, ML-DSA, SLH-DSA), OPAQUE, MLS, HPKE, Noise, Attestatio TPM 2.0, WebAuthn, ProVerif |
+| Programmatio Systematum et Harenaria | Spatia Nominum Linux, seccomp, cgroups, AppContainer, WebAssembly (Wasmtime), Impedimenta contra Purgationem et Munitio Programmatum, Variantes VMP et Tutela Mutationis |
+| Institutio Modelorum | PyTorch, TRL, PEFT, LoRA, DPO, Ablatio Directionalis (Heretic, MPOA, ARA) |
+| Inferentia Modelorum | vLLM, TensorRT-LLM, Infinity, Quantizatio Modelorum, Temperatio RoPE |
+| Inquisitio et Bases Scientiae | RAGFlow, Elasticsearch, Inquisitio Mixta, Reordinatio, Golden Set |
+| Agentes | MCP, Letta, Claude Code, Codex |
+| Retia | Itineratores Programmatici, Libratio Oneris et Transitus in Defectu, Aggregatio Nexuum, VLAN, VXLAN, Muri Ignis (nftables), Procuratio Perspicua et Distributio, Conformatio Fluxus et Moderatio Congestionis, DNS Recursivum et Auctoritativum, DNSSEC, Servitia Occulta Tor |
+| Systemata et Administratio | Linux, Docker, systemd, Ansible, Nginx, FRP, Proxmox Backup Server |
+| Bases Datorum | PostgreSQL, MySQL, SQLite, CouchDB, Elasticsearch, Valkey |
+| Computatio Scientifica | JupyterLab, Dask, REBOUND, MERCURY, VPLanet, ExoPlaSim, climlab |
 
 ## Opera
 
