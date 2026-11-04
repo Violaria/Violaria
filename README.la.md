@@ -33,26 +33,26 @@
 
 ### Suggesta et infrastructura
 
-| Opus | Descriptio | Lingua | Licentia | Status |
-| --- | --- | --- | --- | --- |
-| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | Planum DevOps unificatum et privatim sui iuris, quod administrationem operum programmaticorum et ministratorum in unum suggestum colligit. Clientes Qt, Unreal Engine et interretiales unum nucleum protocolli, permissionum et recognitionis communicant. | C/C++ | Propria (EULA) | In progressu |
-| [**Aevum**](https://gitlab.rothmary.com/Aevum) | Rete publicorum monumentorum verificabilium. Nucleus minimus et recognoscibilis protocolla applicationum, schemata datorum et cryptographiam ex monumentis in catena petit et in harenario exsequitur. Libro rationum BFT permissivo innititur. | Go, Rust, Solidity | MIT | In designatione |
+| Opus | Descriptio | Lingua | Licentia |
+| --- | --- | --- | --- |
+| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | Planum DevOps unificatum et privatim sui iuris, quod administrationem operum programmaticorum et ministratorum in unum suggestum colligit. Clientes Qt, Unreal Engine et interretiales unum nucleum protocolli, permissionum et recognitionis communicant. | C/C++ | Propria (EULA) |
+| [**Aevum**](https://gitlab.rothmary.com/Aevum) | Rete publicorum monumentorum verificabilium. Nucleus minimus et recognoscibilis protocolla applicationum, schemata datorum et cryptographiam ex monumentis in catena petit et in harenario exsequitur. Libro rationum BFT permissivo innititur. | Go, Rust, Solidity | MIT |
 
 ### Agentes
 
-| Opus | Descriptio | Lingua | Licentia | Status |
-| --- | --- | --- | --- | --- |
-| [**Armillary**](https://gitlab.rothmary.com/Armillary) | Ambitus agentium in loco proprio, cum aditibus CLI, SDK et MCP, instrumentis insitis et subagentibus. Etiam ut SaaS instrui potest. | TypeScript | Propria (EULA) | In progressu |
-| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | Automatio officii agentibus destinata: rationes, munera, greges, permissiones, plicae communes et scientia communis, cum epistulis et nuntiis. Quisque agens sessiones suas nativas servat. | Rust | Fons legibilis (RSL) | In progressu |
+| Opus | Descriptio | Lingua | Licentia |
+| --- | --- | --- | --- |
+| [**Armillary**](https://gitlab.rothmary.com/Armillary) | Ambitus agentium in loco proprio, cum aditibus CLI, SDK et MCP, instrumentis insitis et subagentibus. Etiam ut SaaS instrui potest. | TypeScript | Propria (EULA) |
+| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | Automatio officii agentibus destinata: rationes, munera, greges, permissiones, plicae communes et scientia communis, cum epistulis et nuntiis. Quisque agens sessiones suas nativas servat. | Rust | Fons legibilis (RSL) |
 
 ### Contentum et commentarii
 
-| Opus | Descriptio | Lingua | Licentia | Status |
-| --- | --- | --- | --- | --- |
-| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | Systema generale contenti: WordPress lingua Go denuo factum, conceptibus et datis congruens. Quilibet situs WordPress sine damno importari potest. | Go | Apache 2.0 | In progressu |
-| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | Ephemeris personalis in Pandectis denuo aedificata. | Go | Propria | In consilio |
-| [**Tabularium**](https://github.com/Violaria/Tabularium) | Ministrator proprius commentariis synchronizandis cum cryptatione ab extremo ad extremum, cum additamento Obsidian, commentariis in interrete, communicatione, missione ad Kindle et administratore AI. | TypeScript | MIT | Editum |
-| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Arcula quaestionum anonymarum a me ipsa conservata: hospites sine inscriptione quaerunt, dominus situs publice respondet. | Ruby, TypeScript | MIT | In usu |
+| Opus | Descriptio | Lingua | Licentia |
+| --- | --- | --- | --- |
+| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | Systema generale contenti: WordPress lingua Go denuo factum, conceptibus et datis congruens. Quilibet situs WordPress sine damno importari potest. | Go | Apache 2.0 |
+| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | Ephemeris personalis in Pandectis denuo aedificata. | Go | Propria |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | Ministrator proprius commentariis synchronizandis cum cryptatione ab extremo ad extremum, cum additamento Obsidian, commentariis in interrete, communicatione, missione ad Kindle et administratore AI. | TypeScript | MIT |
+| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Arcula quaestionum anonymarum a me ipsa conservata: hospites sine inscriptione quaerunt, dominus situs publice respondet. | Ruby, TypeScript | MIT |
 
 Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt. Fons Tabularii etiam in GitHub publicatur.
 

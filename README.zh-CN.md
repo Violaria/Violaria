@@ -29,25 +29,25 @@
 
 ### 平台与基础设施
 
-| 项目 | 简介 | 主要开发语言 | 许可 | 状态 |
-| --- | --- | --- | --- | --- |
-| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | 私人主权的统一 DevOps 平面，把软件工程管理与服务器运维收敛到一个平台。Qt、UE 和网页客户端共用同一套协议、权限与审计核心。 | C/C++ | 专有许可（EULA） | 开发中 |
-| [**Aevum**](https://gitlab.rothmary.com/Aevum) | 可验证公共记录网络。极小的可审计内核从链上按内容寻址取回应用协议、数据模式和密码学套件，验证后在沙箱中执行。底层是许可制 BFT 账本。 | Go、Rust、Solidity | MIT | 设计阶段 |
+| 项目 | 简介 | 主要开发语言 | 许可 |
+| --- | --- | --- | --- |
+| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | 私人主权的统一 DevOps 平面，把软件工程管理与服务器运维收敛到一个平台。Qt、UE 和网页客户端共用同一套协议、权限与审计核心。 | C/C++ | 专有许可（EULA） |
+| [**Aevum**](https://gitlab.rothmary.com/Aevum) | 可验证公共记录网络。极小的可审计内核从链上按内容寻址取回应用协议、数据模式和密码学套件，验证后在沙箱中执行。底层是许可制 BFT 账本。 | Go、Rust、Solidity | MIT |
 
 ### 智能体
 
-| 项目 | 简介 | 主要开发语言 | 许可 | 状态 |
-| --- | --- | --- | --- | --- |
-| [**Armillary**](https://gitlab.rothmary.com/Armillary) | 本地部署的智能体运行时，提供 CLI、SDK 和 MCP 入口，内置工具与子智能体，同时支持 SaaS 式部署。 | TypeScript | 专有许可（EULA） | 开发中 |
-| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | 面向智能体的办公自动化系统：账号、职位、工作组、范围权限、共享文件与共同知识，以及邮件和公告，各智能体保留原生会话。 | Rust | 源码可读，只读许可（RSL） | 开发中 |
+| 项目 | 简介 | 主要开发语言 | 许可 |
+| --- | --- | --- | --- |
+| [**Armillary**](https://gitlab.rothmary.com/Armillary) | 本地部署的智能体运行时，提供 CLI、SDK 和 MCP 入口，内置工具与子智能体，同时支持 SaaS 式部署。 | TypeScript | 专有许可（EULA） |
+| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | 面向智能体的办公自动化系统：账号、职位、工作组、范围权限、共享文件与共同知识，以及邮件和公告，各智能体保留原生会话。 | Rust | 源码可读，只读许可（RSL） |
 
 ### 内容与笔记
 
-| 项目 | 简介 | 主要开发语言 | 许可 | 状态 |
-| --- | --- | --- | --- | --- |
-| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | 以 Go 重新实现 WordPress 的通用 CMS，概念与数据兼容，任何 WordPress 站点都能无损导入。 | Go | Apache 2.0 | 开发中 |
-| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | 在 Pandectae 上重建的个人博客。 | Go | 专有许可 | 立项中 |
-| [**Tabularium**](https://github.com/Violaria/Tabularium) | 自托管的端到端加密笔记同步服务器，配套 Obsidian 插件，提供云笔记、分享、发送到 Kindle 和 AI 管理员。 | TypeScript | MIT | 已发布 |
+| 项目 | 简介 | 主要开发语言 | 许可 |
+| --- | --- | --- | --- |
+| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | 以 Go 重新实现 WordPress 的通用 CMS，概念与数据兼容，任何 WordPress 站点都能无损导入。 | Go | Apache 2.0 |
+| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | 在 Pandectae 上重建的个人博客。 | Go | 专有许可 |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | 自托管的端到端加密笔记同步服务器，配套 Obsidian 插件，提供云笔记、分享、发送到 Kindle 和 AI 管理员。 | TypeScript | MIT |
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | 自维护的匿名提问箱：访客无需注册即可提问，站主公开回答。| Ruby、TypeScript | MIT | 运行中 |
 
 所有仓库托管于自建 GitLab 实例。开源项目也许在该处公开源码；专有项目仅发布成品与文档。Tabularium 的源码同时公开在 GitHub。

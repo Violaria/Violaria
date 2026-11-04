@@ -33,26 +33,26 @@
 
 ### Platforms and infrastructure
 
-| Project | Description | Language | Licence | Status |
-| --- | --- | --- | --- | --- |
-| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | A privately sovereign, unified DevOps plane that brings software engineering management and server operations onto one platform. Qt, Unreal Engine and web clients share one core of protocol, permissions and audit. | C/C++ | Proprietary (EULA) | In development |
-| [**Aevum**](https://gitlab.rothmary.com/Aevum) | A verifiable public record network. A minimal, auditable kernel fetches application protocols, data schemas and cryptographic suites from content-addressed on-chain records and runs them in a sandbox. Built on a permissioned BFT ledger. | Go, Rust, Solidity | MIT | Design |
+| Project | Description | Language | Licence |
+| --- | --- | --- | --- |
+| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | A privately sovereign, unified DevOps plane that brings software engineering management and server operations onto one platform. Qt, Unreal Engine and web clients share one core of protocol, permissions and audit. | C/C++ | Proprietary (EULA) |
+| [**Aevum**](https://gitlab.rothmary.com/Aevum) | A verifiable public record network. A minimal, auditable kernel fetches application protocols, data schemas and cryptographic suites from content-addressed on-chain records and runs them in a sandbox. Built on a permissioned BFT ledger. | Go, Rust, Solidity | MIT |
 
 ### Agents
 
-| Project | Description | Language | Licence | Status |
-| --- | --- | --- | --- | --- |
-| [**Armillary**](https://gitlab.rothmary.com/Armillary) | An on-premises agent runtime with CLI, SDK and MCP entry points, built-in tools and sub-agents. Also deployable as SaaS. | TypeScript | Proprietary (EULA) | In development |
-| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | Office automation for agents: accounts, positions, working groups, scoped permissions, shared files and common knowledge, with mail and notices. Each agent keeps its native sessions. | Rust | Source-available (RSL) | In development |
+| Project | Description | Language | Licence |
+| --- | --- | --- | --- |
+| [**Armillary**](https://gitlab.rothmary.com/Armillary) | An on-premises agent runtime with CLI, SDK and MCP entry points, built-in tools and sub-agents. Also deployable as SaaS. | TypeScript | Proprietary (EULA) |
+| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | Office automation for agents: accounts, positions, working groups, scoped permissions, shared files and common knowledge, with mail and notices. Each agent keeps its native sessions. | Rust | Source-available (RSL) |
 
 ### Content and notes
 
-| Project | Description | Language | Licence | Status |
-| --- | --- | --- | --- | --- |
-| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | A general-purpose CMS: WordPress reimplemented in Go, compatible in concepts and data. Any WordPress site can be imported without loss. | Go | Apache 2.0 | In development |
-| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | A personal blog being rebuilt on Pandectae. | Go | Proprietary | Planning |
-| [**Tabularium**](https://github.com/Violaria/Tabularium) | A self-hosted, end-to-end encrypted note synchronisation server with an Obsidian plug-in, web notes, sharing, Send to Kindle and an AI administrator. | TypeScript | MIT | Released |
-| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | A self-maintained anonymous question box: visitors ask without registering and the site owner answers in public. | Ruby, TypeScript | MIT | In service |
+| Project | Description | Language | Licence |
+| --- | --- | --- | --- |
+| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | A general-purpose CMS: WordPress reimplemented in Go, compatible in concepts and data. Any WordPress site can be imported without loss. | Go | Apache 2.0 |
+| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | A personal blog being rebuilt on Pandectae. | Go | Proprietary |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | A self-hosted, end-to-end encrypted note synchronisation server with an Obsidian plug-in, web notes, sharing, Send to Kindle and an AI administrator. | TypeScript | MIT |
+| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | A self-maintained anonymous question box: visitors ask without registering and the site owner answers in public. | Ruby, TypeScript | MIT |
 
 All repositories are hosted on a self-managed GitLab instance. Open-source projects may publish their source there; proprietary projects publish releases and documentation only. Tabularium's source is also public on GitHub.
 
