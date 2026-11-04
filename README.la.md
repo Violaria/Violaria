@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++" width="100%">
-  </picture>
+  <img src="assets/banner.svg" alt="Nanako. DevSecOps, C++" width="100%">
 </p>
 
 <p align="center"><a href="README.md">English</a> &middot; <a href="README.zh-CN.md">中文</a> &middot; Lingua Latīna</p>
