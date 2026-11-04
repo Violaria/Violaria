@@ -1,14 +1,15 @@
-<h1 align="center">About Nanako</h1>
-
 <p align="center">
-  DevSecOps &middot; C++ &middot; Stardust Reverie Technology Co., Ltd.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++, Stardust Reverie Technology Co., Ltd." width="100%">
+  </picture>
 </p>
 
+<p align="center">English &middot; <a href="README.zh-CN.md">中文</a> &middot; <a href="README.la.md">Lingua Latīna</a></p>
+
+<p align="center">I build architecture-first software that I can run entirely on my own: from a DevOps plane to local agents and end-to-end encrypted notes.</p>
+
 ---
-
-## Introduction
-
-<p>English &middot; <a href="README.zh-CN.md">中文</a> &middot; <a href="README.la.md">Lingua Latīna</a></p>
 
 ## Values
 
@@ -32,17 +33,28 @@
 
 ## Projects
 
-| Project | Description | Language | Licence |
-| --- | --- | --- | --- |
-| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | A privately sovereign, unified DevOps plane that converges software engineering management with server operations, administration and control on a single platform. Its capability domains share one client/server axis: registration, authorisation, tiering, audit and execution. The client supports heterogeneous front ends (Qt, Unreal Engine, WebView); differences in presentation are confined to the view and input-adaptation layers, while protocol frames, action security levels, the manifest schema, the native core, server module registration and audit rules remain uniform. The protocol, permissions, audit and server core are reusable; Qt and UE are simply two front ends. By design the view is replaceable; the core and the protocol are the foundation. | C/C++ | Proprietary (EULA) |
-| [**Armillary**](https://gitlab.rothmary.com/Armillary) | On-premises agent runtime, also deployable as SaaS. | TypeScript | Proprietary (EULA) |
-| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | LAN-based office automation (OA) for multiple devices, agents and sessions, with shared and cloud memory, built-in automated workflows and a mail server. Supports MCP collaboration and messaging across Claude Code, Codex, Armillary, DeepSeek Hermes and Letta, and provides organisational structure management, RBAC, and execution-tracking runtime containers with lifecycle management. | Rust | Source-available, read-only (RSL) |
-| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | Content management system: WordPress reimplemented in Go. | Go | Apache 2.0 |
-| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | Personal blog built on the Pandectae framework. | Go | Proprietary |
-| [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | Spatial acoustics engine. | Python | Proprietary |
-| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Self-maintained anonymous question box. | TypeScript | MIT |
-| [**Aevum**](https://gitlab.rothmary.com/Aevum) | Blockchain built on a permissioned BFT ledger, providing an on-chain network of verifiable public records with support for on-chain applications and smart contracts. | Go, Rust, Solidity | MIT |
-| [**Tabularium**](https://github.com/Violaria/Tabularium) | Self-hosted end-to-end encrypted note synchronisation server with an Obsidian plug-in, web notes, sharing, Send to Kindle and an AI administrator. | TypeScript | MIT |
+### Platforms and infrastructure
+
+| Project | Description | Language | Licence | Status |
+| --- | --- | --- | --- | --- |
+| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | A privately sovereign, unified DevOps plane that brings software engineering management and server operations onto one platform. Qt, Unreal Engine and web clients share one core of protocol, permissions and audit. | C/C++ | Proprietary (EULA) | In development |
+| [**Aevum**](https://gitlab.rothmary.com/Aevum) | A verifiable public record network. A minimal, auditable kernel fetches application protocols, data schemas and cryptographic suites from content-addressed on-chain records and runs them in a sandbox. Built on a permissioned BFT ledger. | Go, Rust, Solidity | MIT | Design |
+
+### Agents
+
+| Project | Description | Language | Licence | Status |
+| --- | --- | --- | --- | --- |
+| [**Armillary**](https://gitlab.rothmary.com/Armillary) | An on-premises agent runtime with CLI, SDK and MCP entry points, built-in tools and sub-agents. Also deployable as SaaS. | TypeScript | Proprietary (EULA) | In development |
+| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | Office automation for agents: accounts, positions, working groups, scoped permissions, shared files and common knowledge, with mail and notices. Each agent keeps its native sessions. | Rust | Source-available (RSL) | In development |
+
+### Content and notes
+
+| Project | Description | Language | Licence | Status |
+| --- | --- | --- | --- | --- |
+| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | A general-purpose CMS: WordPress reimplemented in Go, compatible in concepts and data. Any WordPress site can be imported without loss. | Go | Apache 2.0 | In development |
+| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | A personal blog being rebuilt on Pandectae. | Go | Proprietary | Planning |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | A self-hosted, end-to-end encrypted note synchronisation server with an Obsidian plug-in, web notes, sharing, Send to Kindle and an AI administrator. | TypeScript | MIT | Released |
+| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | A self-maintained anonymous question box: visitors ask without registering and the site owner answers in public. | Ruby, TypeScript | MIT | In service |
 
 All repositories are hosted on a self-managed GitLab instance. Open-source projects may publish their source there; proprietary projects publish releases and documentation only. Tabularium's source is also public on GitHub.
 

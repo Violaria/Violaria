@@ -1,14 +1,15 @@
-<h1 align="center">About Nanako</h1>
-
 <p align="center">
-  DevSecOps &middot; C++ &middot; Stardust Reverie Technology Co. Ltd.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Nanako. DevSecOps, C++, Stardust Reverie Technology Co., Ltd." width="100%">
+  </picture>
 </p>
 
+<p align="center"><a href="README.md">English</a> &middot; 中文 &middot; <a href="README.la.md">Lingua Latīna</a></p>
+
+<p align="center">我做架构优先、能完全自持的软件，从 DevOps 平面到本地智能体和端到端加密笔记。</p>
+
 ---
-
-## 简介
-
-English / 中文 / Lingua Latīna
 
 ## 价值观
 ### 开发
@@ -28,17 +29,28 @@ English / 中文 / Lingua Latīna
 
 ## 项目
 
-| 项目 | 简介 | 主要开发语言 | 许可 |
-| --- | --- | --- | --- |
-| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | 私人主权的统一DevOps平面，它将软件工程管理与服务器运维、管理与操作收敛到统一的聚合平台，它的不同能力域上有共同的C/S（注册 、授权 、分级 、审计、执行）行为轴。客户端支持多种异构表达(QT/UE/Webview)，表达形态的差异外推到只存在于 View 和输入适配层。协议帧、Action 安全等级、Manifest schema、Native Core、服务端模块注册和审计规则保持一致。协议、权限、审计和服务端 Core是可复用的。Qt 和 UE 只是两种不同前端。 架构原则上View 可以替换，Core 和协议是底层 | C/C++ | 专有许可（EULA） |
-| [**Armillary**](https://gitlab.rothmary.com/Armillary) | 本地部署（On-Premises）的智能体运行时，同时支持 SaaS 式部署。 | TypeScript | 专有许可（EULA） |
-| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | 局域网环境下多设备、多智能体、多会话的协同办公自动化（OA）系统，内置共同记忆与云记忆、自动化工作流及邮件服务器。支持 Claude Code、Codex、Armillary、DeepSeek Hermes、Letta 之间的 MCP 协作与通信，并提供组织架构管理、RBAC，以及追踪执行状态的运行容器与生命周期管理机制。 | Rust | 源码可读，只读许可（RSL） |
-| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | 以 Go 重构的 WordPress 内容管理系统。 | Go | Apache 2.0 |
-| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | 基于 Pandectae 框架实现的个人博客网站。 | Go | 专有许可 |
-| [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | 空间声学引擎。 | Python | 专有许可 |
-| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | 自维护的匿名提问信项目。 | TypeScript | MIT |
-| [**Aevum**](https://gitlab.rothmary.com/Aevum) | 基于许可制 BFT 账本的区块链，提供链上可验证的公共记录网络，支持链上应用与智能合约。 | Go、Rust、Solidity | MIT |
-| [**Tabularium**](https://github.com/Violaria/Tabularium) | 自托管的端到端加密笔记同步服务器，配套 Obsidian 插件，提供云笔记、分享、发送到 Kindle 和 AI 管理员。 | TypeScript | MIT |
+### 平台与基础设施
+
+| 项目 | 简介 | 主要开发语言 | 许可 | 状态 |
+| --- | --- | --- | --- | --- |
+| [**Astra**](https://gitlab.rothmary.com/Astra/Public) | 私人主权的统一 DevOps 平面，把软件工程管理与服务器运维收敛到一个平台。Qt、UE 和网页客户端共用同一套协议、权限与审计核心。 | C/C++ | 专有许可（EULA） | 开发中 |
+| [**Aevum**](https://gitlab.rothmary.com/Aevum) | 可验证公共记录网络。极小的可审计内核从链上按内容寻址取回应用协议、数据模式和密码学套件，验证后在沙箱中执行。底层是许可制 BFT 账本。 | Go、Rust、Solidity | MIT | 设计阶段 |
+
+### 智能体
+
+| 项目 | 简介 | 主要开发语言 | 许可 | 状态 |
+| --- | --- | --- | --- | --- |
+| [**Armillary**](https://gitlab.rothmary.com/Armillary) | 本地部署的智能体运行时，提供 CLI、SDK 和 MCP 入口，内置工具与子智能体，同时支持 SaaS 式部署。 | TypeScript | 专有许可（EULA） | 开发中 |
+| [**Gestalt Mind**](https://gitlab.rothmary.com/Gestalt) | 面向智能体的办公自动化系统：账号、职位、工作组、范围权限、共享文件与共同知识，以及邮件和公告，各智能体保留原生会话。 | Rust | 源码可读，只读许可（RSL） | 开发中 |
+
+### 内容与笔记
+
+| 项目 | 简介 | 主要开发语言 | 许可 | 状态 |
+| --- | --- | --- | --- | --- |
+| [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | 以 Go 重新实现 WordPress 的通用 CMS，概念与数据兼容，任何 WordPress 站点都能无损导入。 | Go | Apache 2.0 | 开发中 |
+| [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | 在 Pandectae 上重建的个人博客。 | Go | 专有许可 | 立项中 |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | 自托管的端到端加密笔记同步服务器，配套 Obsidian 插件，提供云笔记、分享、发送到 Kindle 和 AI 管理员。 | TypeScript | MIT | 已发布 |
+| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | 自维护的匿名提问箱：访客无需注册即可提问，站主公开回答。| Ruby、TypeScript | MIT | 运行中 |
 
 所有仓库托管于自建 GitLab 实例。开源项目也许在该处公开源码；专有项目仅发布成品与文档。Tabularium 的源码同时公开在 GitHub。
 
@@ -48,4 +60,4 @@ English / 中文 / Lingua Latīna
 
 ## 组织
 
-Stardust Reverie Technology Co., Ltd
+Stardust Reverie Technology Co., Ltd.
