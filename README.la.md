@@ -42,8 +42,9 @@
 | [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | Machina acusticae spatialis. | Python | Licentia propria |
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Arcula quaestionum anonymarum a me ipsa conservata. | TypeScript | MIT |
 | [**Aevum**](https://gitlab.rothmary.com/Aevum) | Catena frustorum libro rationum BFT permissivo innixa, quae rete publicorum monumentorum in catena verificabilium praebet, applicationes et pacta callida in catena sustinens. | Go, Rust, Solidity | MIT |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | Ministrator proprius commentariis synchronizandis cum cryptatione ab extremo ad extremum, cum additamento Obsidian, commentariis in interrete, communicatione, missione ad Kindle et administratore AI. | TypeScript | MIT |
 
-Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt.
+Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt. Fons Tabularii etiam in GitHub publicatur.
 
 ## Artes
 

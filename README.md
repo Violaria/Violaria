@@ -42,8 +42,9 @@
 | [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | Spatial acoustics engine. | Python | Proprietary |
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Self-maintained anonymous question box. | TypeScript | MIT |
 | [**Aevum**](https://gitlab.rothmary.com/Aevum) | Blockchain built on a permissioned BFT ledger, providing an on-chain network of verifiable public records with support for on-chain applications and smart contracts. | Go, Rust, Solidity | MIT |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | Self-hosted end-to-end encrypted note synchronisation server with an Obsidian plug-in, web notes, sharing, Send to Kindle and an AI administrator. | TypeScript | MIT |
 
-All repositories are hosted on a self-managed GitLab instance. Open-source projects may publish their source there; proprietary projects publish releases and documentation only.
+All repositories are hosted on a self-managed GitLab instance. Open-source projects may publish their source there; proprietary projects publish releases and documentation only. Tabularium's source is also public on GitHub.
 
 ## Technology
 

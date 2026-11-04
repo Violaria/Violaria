@@ -38,8 +38,9 @@ English / 中文 / Lingua Latīna
 | [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | 空间声学引擎。 | Python | 专有许可 |
 | [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | 自维护的匿名提问信项目。 | TypeScript | MIT |
 | [**Aevum**](https://gitlab.rothmary.com/Aevum) | 基于许可制 BFT 账本的区块链，提供链上可验证的公共记录网络，支持链上应用与智能合约。 | Go、Rust、Solidity | MIT |
+| [**Tabularium**](https://github.com/Violaria/Tabularium) | 自托管的端到端加密笔记同步服务器，配套 Obsidian 插件，提供云笔记、分享、发送到 Kindle 和 AI 管理员。 | TypeScript | MIT |
 
-所有仓库托管于自建 GitLab 实例。开源项目也许在该处公开源码；专有项目仅发布成品与文档。
+所有仓库托管于自建 GitLab 实例。开源项目也许在该处公开源码；专有项目仅发布成品与文档。Tabularium 的源码同时公开在 GitHub。
 
 ## 技术
 
