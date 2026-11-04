@@ -6,7 +6,7 @@
 
 ---
 
-Si opera mea in GitHub sequi aut quaestionem (issue) aperire vis, doleo, sed nuntios in GitHub raro inspicio, et pleraque opera mea in GitLab privato meo sunt.
+Si opera mea in GitHub sequi aut issue aperire vis, doleo, sed nuntios in GitHub raro inspicio, et pleraque opera mea in GitLab privato meo sunt.
 
 ## Principia Fabricationis
 
@@ -27,15 +27,15 @@ Si opera mea in GitHub sequi aut quaestionem (issue) aperire vis, doleo, sed nun
 | Ambitus | Artes |
 | --- | --- |
 | Linguae | C, C++ (C++11 ad C++23), Go, TypeScript, Python, Rust, x86 ASM |
-| Clientes et Graphica | Qt6 et Qt6 Proprie Accommodatum (Vendored), Unreal Engine 5, CEF Extra Scaenam Reddens, DirectX 12, Vulkan, DirectComposition, Live2D Cubism |
-| Protocolla et Translatio | Designatio Protocolli Binarii Proprii, TLS 1.3, QUIC, HTTP/3, WebRTC, AnyTLS, REALITY, obfs4, Hysteria2, Snowflake |
-| Cryptographia | GM (SM2, SM3, SM4), PQC (ML-KEM, ML-DSA, SLH-DSA), OPAQUE, MLS, HPKE, Noise, Attestatio TPM 2.0, WebAuthn, ProVerif |
-| Programmatio Systematum et Harenaria | Spatia Nominum Linux, seccomp, cgroups, AppContainer, WebAssembly (Wasmtime), Impedimenta contra Purgationem et Munitio Programmatum, Variantes VMP et Tutela Mutationis |
-| Institutio Modelorum | PyTorch, TRL, PEFT, LoRA, DPO, Ablatio Directionalis (Heretic, MPOA, ARA) |
-| Inferentia Modelorum | vLLM, TensorRT-LLM, Infinity, Quantizatio Modelorum, Temperatio RoPE |
-| Inquisitio et Bases Scientiae | RAGFlow, Elasticsearch, Inquisitio Mixta, Reordinatio, Golden Set |
+| Clientes et Graphica | Qt6 and Custom Vendored Qt6, Unreal Engine 5, CEF Off-Screen Rendering, DirectX 12, Vulkan, DirectComposition, Live2D Cubism |
+| Protocolla et Translatio | Custom Binary Protocol Design, TLS 1.3, QUIC, HTTP/3, WebRTC, AnyTLS, REALITY, obfs4, Hysteria2, Snowflake |
+| Cryptographia | GM (SM2, SM3, SM4), PQC (ML-KEM, ML-DSA, SLH-DSA), OPAQUE, MLS, HPKE, Noise, TPM 2.0 Attestation, WebAuthn, ProVerif |
+| Programmatio Systematum et Harenaria | Linux Namespaces, seccomp, cgroups, AppContainer, WebAssembly (Wasmtime), Anti-Debugging and Software Hardening, VMP Variants and Mutation Protection |
+| Institutio Modelorum | PyTorch, TRL, PEFT, LoRA, DPO, Directional Ablation (Heretic, MPOA, ARA) |
+| Inferentia Modelorum | vLLM, TensorRT-LLM, Infinity, Model Quantisation, RoPE Tuning |
+| Inquisitio et Bases Scientiae | RAGFlow, Elasticsearch, Hybrid Retrieval, Reranking, Golden Set |
 | Agentes | MCP, Letta, Claude Code, Codex |
-| Retia | Itineratores Programmatici, Libratio Oneris et Transitus in Defectu, Aggregatio Nexuum, VLAN, VXLAN, Muri Ignis (nftables), Procuratio Perspicua et Distributio, Conformatio Fluxus et Moderatio Congestionis, DNS Recursivum et Auctoritativum, DNSSEC, Servitia Occulta Tor |
+| Retia | Software Routers, Load Balancing and Failover, Link Aggregation, VLAN, VXLAN, Firewalls (nftables), Transparent Proxying and Traffic Splitting, Traffic Shaping and Congestion Control, Recursive and Authoritative DNS, DNSSEC, Tor Hidden Services |
 | Systemata et Administratio | Linux, Docker, systemd, Ansible, Nginx, FRP, Proxmox Backup Server |
 | Bases Datorum | PostgreSQL, MySQL, SQLite, CouchDB, Elasticsearch, Valkey |
 | Computatio Scientifica | JupyterLab, Dask, REBOUND, MERCURY, VPLanet, ExoPlaSim, climlab |
