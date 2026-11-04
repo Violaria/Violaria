@@ -15,7 +15,7 @@
 - In designando API primum ponere soleo, et qualitati fabricationis API et SDK primas partes tribuo.
 - Semper in parte Dev-First sto; Sales-First, Consumer-First et Time-to-Market me non movent.
 - Designationi nimiae non adversor, et praecipue odi YAGNI et KISS praetexta.
-- Fail-Fast. Codex pactis declaratis confidit, examinatio ad fines fiduciae collocatur; ramos defensivos et omne genus codicis subsidiarii odi.
+- Fail-Fast. Ramos defensivos et omne genus codicis subsidiarii odi.
 - Rationem programmatum quae levitatem et parvitatem elegantem sine modo sequitur non probo. Potius API et additamenta flexibilia sequor; compositio autem architecturae elegans ut vere fieri possit, abstractione inferiore valida et una opus est.
 - Nulla programmata facio nisi quae meo gustui respondeant; nec fama fontis aperti, nec auxilium aliis, nec quaestus me tangunt.
 - Electio verborum est decretum designationis. Nomen parum accuratum designatio parum accurata est.

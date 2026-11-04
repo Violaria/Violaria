@@ -15,7 +15,7 @@
 - I tend to design API-first, and I give priority to the engineering quality of APIs and SDKs.
 - I have always taken the Dev-First position; Sales-First, Consumer-First and Time-to-Market do not interest me.
 - I do not oppose over-design, and I particularly detest the excuses of YAGNI and KISS.
-- Fail-Fast. Code trusts its declared contracts, validation belongs at trust boundaries, and I detest defensive branches and fallback code of every kind.
+- Fail-Fast. I detest defensive branches and fallback code of every kind.
 - I do not accept the philosophy of pursuing lightness and small-is-beautiful for their own sake. I lean towards API-driven, flexibly pluggable software, and for elegant architectural composition to be truly workable, the precondition is a strong, unified underlying abstraction.
 - I build only software that meets my own aesthetic; open-source reputation, helping others and commercialisation do not interest me.
 - Word choice is a design decision. An imprecise name is an imprecise design.
