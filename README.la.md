@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Nanako. DevSecOps, C++" width="100%">
+  <img src="assets/star-chart.svg" alt="Nanako. DevSecOps, C++" width="100%">
 </p>
 
 <p align="center"><a href="README.md">English</a> &middot; <a href="README.zh-CN.md">中文</a> &middot; Lingua Latīna</p>
