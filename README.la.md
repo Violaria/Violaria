@@ -63,6 +63,11 @@ Si opera mea in GitHub sequi aut issue aperire vis, doleo, sed nuntios in GitHub
 | [**Pandectae**](https://gitlab.rothmary.com/Pandectae) | Systema generale contenti: WordPress lingua Go denuo factum, conceptibus et datis congruens. Quilibet situs WordPress sine damno importari potest. | Go | Apache 2.0 |
 | [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | Ephemeris personalis in Pandectis denuo aedificata. | Go | Propria |
 | [**Tabularium**](https://github.com/Violaria/Tabularium) | Ministrator proprius commentariis synchronizandis cum cryptatione ab extremo ad extremum, cum additamento Obsidian, commentariis in interrete, communicatione, missione ad Kindle et administratore AI. | TypeScript | MIT |
-| [**Litterae Anonymae**](https://gitlab.rothmary.com/Litterae) | Arcula quaestionum anonymarum a me ipsa conservata: hospites sine inscriptione quaerunt, dominus situs publice respondet. | Ruby, TypeScript | MIT |
+
+### Sonus
+
+| Opus | Descriptio | Lingua | Licentia |
+| --- | --- | --- | --- |
+| [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | Machina acustica spatialis. | Python | Propria |
 
 Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt. Fons Tabularii etiam in GitHub publicatur.
