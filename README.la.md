@@ -64,10 +64,4 @@ Si opera mea in GitHub sequi aut issue aperire vis, doleo, sed nuntios in GitHub
 | [**Eburnea**](https://gitlab.rothmary.com/Eburnea) | Ephemeris personalis in Pandectis denuo aedificata. | Go | Propria |
 | [**Tabularium**](https://github.com/Violaria/Tabularium) | Ministrator proprius commentariis synchronizandis cum cryptatione ab extremo ad extremum, cum additamento Obsidian, commentariis in interrete, communicatione, missione ad Kindle et administratore AI. | TypeScript | MIT |
 
-### Sonus
-
-| Opus | Descriptio | Lingua | Licentia |
-| --- | --- | --- | --- |
-| [**Recitativo**](https://gitlab.rothmary.com/Recitativo) | Machina acustica spatialis. | Python | Propria |
-
 Omnia repositoria in instantia GitLab a me ipsa administrata hospitantur. Opera fontis aperti ibi fontem fortasse publicant; opera propria tantum producta perfecta et documenta edunt. Fons Tabularii etiam in GitHub publicatur.
